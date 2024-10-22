@@ -18,7 +18,7 @@ Como Usar
    - Abra o arquivo index.html em um navegador compatível com JavaScript.
    - Você verá um fundo azul com pedras na parte inferior.
 
-  Iteragir:
+  Interagir:
     - Clique em qualquer lugar da tela para gerar um peixe colorido.
     - Após 2 segundos, os peixes começarão a se mover para a direita. Eles desaparecerão ao sair da tela.
 
